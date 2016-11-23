@@ -3,6 +3,7 @@
   "description": "Simple signaling server for SimpleWebRTC",
   "version": "0.2.3",
   "dependencies": {
+    "express": "~4.7.2",
     "getconfig": "2.1.0",
     "node-uuid": "1.2.0",
     "socket.io": "0.9.16",
